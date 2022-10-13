@@ -32,6 +32,9 @@ This template includes placeholders for:
 
 ## Known Bugs
 
+* Many known bugs:
+  * Current bug is aligning "login" menu on the right side of the screen
+  * Additional content and styling needed
 * No known bugs. If you find one, please email me at kirsten.opstad@gmail.com with the subject **[_Repo Name_] Bug** and include:
   * BUG: _A brief description of the bug_
   * FIX: _Suggestion for solution (if you have one!)_
